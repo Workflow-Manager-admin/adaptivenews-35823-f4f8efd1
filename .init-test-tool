@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/adaptivenews-35823-f4f8efd1/adaptive_news"
+}
